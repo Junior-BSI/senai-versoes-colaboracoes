@@ -3,4 +3,11 @@
 sei lah o quê
 
 
-fazendo uma alteração no readme
+<<<<<<< HEAD
+
+oiiewww
+=======
+lembrei do comando: git status
+
+lembrei do comando: git commit
+>>>>>>> tarefa/minha-primeira-branch
